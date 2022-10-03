@@ -1,4 +1,4 @@
-Creating a Model that predicts whether a webiste is a PHISING website or not 
+CREATING A ML MODEL THAT PREDICTS IF A WEBSITE IS A PHISING WEBSITE OR NOT 
 
 
 Justification of the selected approach 
