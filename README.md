@@ -1,5 +1,7 @@
 CREATING A ML MODEL THAT PREDICTS IF A WEBSITE IS A PHISING WEBSITE OR NOT 
 
+Code can be found in the file- phising.ipynb 
+
 
 Justification of the selected approach 
 
